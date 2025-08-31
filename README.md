@@ -1,5 +1,9 @@
 # latihan-branch
 Repository untuk latihan konsep branch. Branch baru bernama development
 
-*development side*
+**main side**
 3
+
+
+squah trial 3(final try squash)
+
